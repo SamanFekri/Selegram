@@ -17,5 +17,5 @@ because that is improved in 4 days just for an DB homework :D:D:D:D
 4. run chatroom server.
 5. run Selegram.
 
-## lisence
+## license
 GPL3
